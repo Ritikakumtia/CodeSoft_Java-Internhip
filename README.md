@@ -1,2 +1,2 @@
-# Number-Guessing-game
-CodeSoft
+#CodeSoft/ Number-Guessing-game
+
